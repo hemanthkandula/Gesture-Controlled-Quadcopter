@@ -26,7 +26,9 @@ Such as X-Configuration and P-Configuration.
 
 **The motor rotations of quad is as shown**
 
-![](RackMultipart20210415-4-edgtgb_html_4564b43180a002e3.jpg)
+<img src="images/quad-ori.jpg" alt="quad-ori.jpg" />
+
+<!-- ![](RackMultipart20210415-4-edgtgb_html_4564b43180a002e3.jpg) -->
 
 We choose X-Configuration to fly our quad-copter.
 
@@ -55,7 +57,9 @@ When the quad copter orientation is changed in any pitch/roll/yaw axis, the gyro
 
 **PID Controller:**
 
-![](RackMultipart20210415-4-edgtgb_html_d283d2b7082c8773.jpg)
+<img src="images/PID.jpg" alt="PID.jpg" />
+
+<!-- ![](RackMultipart20210415-4-edgtgb_html_d283d2b7082c8773.jpg) -->
 
 Generalized PID equation is
 
@@ -92,7 +96,9 @@ With props on:
 
 **Image of our app:**
 
-![](RackMultipart20210415-4-edgtgb_html_812a901afeaac79.png)
+<img src="images/App Image.png" alt="App Image.png" />
+
+<!-- ![](RackMultipart20210415-4-edgtgb_html_812a901afeaac79.png) -->
 
 In app there is a slide bar which helps us to control the throttle value of the quad and buttons &#39;YAW DEC&#39; and &#39;YAW INC&#39; for controlling yaw motion of the quad.
 
