@@ -112,7 +112,7 @@ The values present on the app are default values.
 
 This is the video link of our project GESTURE CONTROLLED QUADCOPTER:
 
-[https://1drv.ms/v/s!As4DsiWcY\_BPixh5o\_yyHqSQmgzi](https://1drv.ms/v/s!As4DsiWcY_BPixh5o_yyHqSQmgzi)
+[https://photos.app.goo.gl/VTYxn65R3knjfQhMA](https://photos.app.goo.gl/VTYxn65R3knjfQhMA)
 
 
 
@@ -120,7 +120,7 @@ This is the video link of our project GESTURE CONTROLLED QUADCOPTER:
 
 
 
-## Setup instructions 
+# Setup instructions 
 
 Websocket and MultiWii serial code to control a quadcopter, running on a Raspberry Pi
 
